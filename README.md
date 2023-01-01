@@ -1,8 +1,9 @@
 # starter-flutter
 A flutter application which provides user with infinite cats images with number assigned to each image.
 
-#Download 
+# Download 
 simply go to [RELEASES](https://github.com/HarixhKumawat/starter-flutter/releases) to see available builds
+# Demo is available on 
 
 ## How to
 1. Clone the repo
